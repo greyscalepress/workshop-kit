@@ -10,7 +10,7 @@ Allows to keep a quick overview of attendance of each participant. Helps in keep
 
 ## Participant assessment forms
 
-If it is required to provide feedback on the participant's engagement (e.g. students)
+If it is required to provide feedback on the participant's engagement (e.g. students).
 
 ## Certificate
 
@@ -18,7 +18,7 @@ A certificate for participants who completed the workshop.
 
 ## Feedback form
 
-Allows you to gather (anonymous) feedback regarding the workshop.
+Allows you to gather (anonymous) feedback regarding the workshop. Could be paper-based, but could also be an online survey (Google Forms, PollDaddy).
 
 ## Resources elsewhere
 
