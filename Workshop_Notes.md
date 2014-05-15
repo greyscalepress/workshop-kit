@@ -7,7 +7,7 @@ to keep in mind:
 
 # Information:
 *************
-Information to provide in the begging.
+Information to provide in the beginning.
 * Each workshop "intervenant" must introduce himself in PechaKucha style.
 * Expose the time schedule of the workshop.
 * Explain work methodology (Project Canvas)
